@@ -14,7 +14,7 @@ JavaScript:
 ```
 
 Java (Maven):
-```Java (Maven)
+```Maven
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
